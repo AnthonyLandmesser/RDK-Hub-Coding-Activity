@@ -1,0 +1,6 @@
+[submodule "OpenWeather-API"]
+	path = OpenWeather-API
+	url = https://github.com/AnthonyLandmesser/OpenWeather-API
+[submodule "Sort-And-Find-Mean"]
+	path = Sort-And-Find-Mean
+	url = https://github.com/AnthonyLandmesser/Sort-And-Find-Mean
